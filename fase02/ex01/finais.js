@@ -1,4 +1,4 @@
-function finais(palavra) {
-    return palavra.substring(palavra.length -3)
+function penultimo(palavra) {
+    return palavra.charAt(palavra.length -2)
 }
 
